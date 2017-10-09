@@ -18,7 +18,7 @@ if (!$data || count($data) === 0) {
     die();
 }
 
-$to  = "sergezak9@gmail.com";
+$to  = "sergezak9@gmail.com, dev@aixsystem.com";
 
 $subject = "New form submit at aixsystem.com by ". $data['email'];
 
